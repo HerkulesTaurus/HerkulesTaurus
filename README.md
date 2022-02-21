@@ -2,7 +2,7 @@
 
 <!--
 **HerkulesTaurus/HerkulesTaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![snake svg](https://github.com/HerkulesTaurus/JavaFall/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
