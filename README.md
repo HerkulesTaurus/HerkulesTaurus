@@ -1,6 +1,6 @@
 ![snake svg](https://github.com/HerkulesTaurus/JavaFall/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋
-- 🔭 I’m currently working on JDBC
+- 🔭 I’m currently working on API
 
 <!--
 **HerkulesTaurus/HerkulesTaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![html_png](https://user-images.githubusercontent.com/94438096/156452884-ec5033d3-3ef9-49c6-bb72-1804d1bc2c36.png)
+
